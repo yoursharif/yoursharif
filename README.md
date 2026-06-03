@@ -2,9 +2,9 @@
 
 # Md Shariful Islam Khan
 
-- Product Designer
-- Vibe Coder
-- Problem Solver
+- Designing thoughtful digital product experiences
+- Exploring AI-powered creative workflows
+- Solving complex user and business problems
 
 ## About
 
@@ -31,10 +31,9 @@ Over the years, I’ve contributed to products from concept to launch, led featu
 
 ## Exploration
 
-- Dribbble
-- Behance
+- [Dribbble](https://dribbble.com/yoursharif)
+- [Behance](https://www.behance.net/yoursharif)
 
 ## Connect
 
-- LinkedIn: Your LinkedIn URL
-- Email: Your Email Address
+- Email: [yoursharif@outlook.com](mailto:yoursharif@outlook.com)
