@@ -8,32 +8,20 @@
 
 ## About
 
-I’m a Product Designer with 3.5+ years of experience designing digital products across SaaS, B2B, web, and mobile platforms. My focus is on creating meaningful product experiences by combining product thinking, UX strategy, scalable systems, and user-centered design.
+I design digital products and contribute across the product development lifecycle, from understanding problems and shaping experiences to exploring how those experiences can be built and delivered.
 
-I work closely with product managers, engineers, stakeholders, and cross-functional teams to transform complex workflows into intuitive and efficient experiences. Beyond interface design, I enjoy understanding business goals, identifying user pain points, shaping product direction, and contributing to decisions that create measurable impact.
+My work is grounded in research, systems thinking, product strategy, and collaboration. I enjoy turning complex problems into intuitive experiences, creating scalable solutions, and bridging the gap between user needs, business goals, and technical constraints.
 
-Over the years, I’ve contributed to products from concept to launch, led features independently, improved existing product experiences, and collaborated closely with teams to support product growth. I’m especially interested in complex systems, workflow-driven products, and building experiences that balance usability, scalability, and business objectives.
+Recently, I've been exploring AI-assisted workflows and expanding beyond design into development. As an apprentice developer, I use AI as a learning and building partner to prototype ideas, understand technical concepts, and transform designs into functional products. This process has helped me better understand the full product journey and collaborate more effectively across disciplines.
 
-## Experience
+I'm particularly interested in AI-native experiences, design systems, developer collaboration, and building products with an end-to-end mindset. My goal is to contribute not only to product design, but also to the thinking, experimentation, and implementation that bring great products to life.
 
-- Research
-- Analysis
-- Architecture
-- Interface
-- Systems
-- Collaboration
+This GitHub profile is where I document that journey through experiments, prototypes, side projects, and explorations at the intersection of design, AI, and development.
 
 ## Stack
 
-- Figma
-- ChatGPT
-- Claude
-
-## Exploration
-
-- [Dribbble](https://dribbble.com/yoursharif)
-- [Behance](https://www.behance.net/yoursharif)
+✦ Figma ✦ ChatGPT ✦ Claude
 
 ## Connect
 
-- Email: [yoursharif@outlook.com](mailto:yoursharif@outlook.com)
+@ Email: [yoursharif@outlook.com](mailto:yoursharif@outlook.com)
